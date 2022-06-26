@@ -8,7 +8,9 @@
 * ```cd DDOS```
 
 Comando para ejecutar el script  ```python2 ddos.py``` 
-En otra terminal podriamos usar (dig) y el dominio del sitio, para poder ver su IP
+
 # Imagen 
 
 ![](https://raw.githubusercontent.com/pembriahmad/DDOS/master/Screenshot.jpg)
+
+#En otra terminal podriamos usar (dig) y el dominio del sitio, para poder ver su IP
