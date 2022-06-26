@@ -7,8 +7,8 @@
 * ```git clone https://github.com/pembriahmad/DDOS```
 * ```cd DDOS```
 
-comando para ejecutar el script  ```python2 ddos.py``` 
+Comando para ejecutar el script  ```python2 ddos.py``` 
 
-# Screenshot
+# Imagen 
 
 ![](https://raw.githubusercontent.com/pembriahmad/DDOS/master/Screenshot.jpg)
