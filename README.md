@@ -1,4 +1,4 @@
-### Table of contents
+### Tabla de Contenidos
 
 # Como instalarlo
 * ```pkg install python```
@@ -7,7 +7,7 @@
 * ```git clone https://github.com/pembriahmad/DDOS```
 * ```cd DDOS```
 
-Type command ```python2 ddos.py``` To run the script
+comando para ejecutar el script  ```python2 ddos.py``` 
 
 # Screenshot
 
